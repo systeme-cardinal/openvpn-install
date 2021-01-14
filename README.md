@@ -12,5 +12,5 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
-### Ajout
+### Ajout pour le routage
 `echo "ifconfig-push <ip> <mask>" > /etc/openvpn/ccd/<username>`
