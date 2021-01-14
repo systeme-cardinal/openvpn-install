@@ -21,4 +21,4 @@ If you want to show your appreciation, you can donate via [PayPal](https://www.p
 
 
 ### Ajout
-echo "ifconfig-push <ip> <mask>" > /etc/openvpn/ccd/<username>
+`echo "ifconfig-push <ip> <mask>" > /etc/openvpn/ccd/<username>`
